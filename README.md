@@ -84,7 +84,7 @@ functions.phpに書かれた関数も無効になります。
 ## ご理解・納得した上でダウンロード
 
 ご使用に際しまして  
-フォルダを「__sqlite-integration-eternally__」から  
+フォルダを「__sqlite-integration-eternal__」から  
 「__sqlite-integration__」に __リネーム__ してください。 
 
 # 参考文献 (reference)
