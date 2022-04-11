@@ -319,7 +319,9 @@ class SQLiteIntegration {
 	}
 }
 
-/* Easy way to manage snippets in WordPress */
+/* Easy way to manage snippets in WordPress
+ * https://dogmap.jp/2011/04/19/wordpress-managed-snippet/
+ */
 
 $hack_dir = trailingslashit(dirname(__FILE__)) . 'functions/';
 opendir($hack_dir);
